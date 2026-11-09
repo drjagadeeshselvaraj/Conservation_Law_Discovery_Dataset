@@ -1,0 +1,12 @@
+real_linear_h_1 rows 870 noise sd [0.28738905 0.57904241]
+ window 870 count 1 median mu0 427.16
+ window 200 count 4 median mu0 24.18
+ window 100 count 8 median mu0 7.36
+ window 50 count 17 median mu0 1.89
+ window 30 count 29 median mu0 1.49
+real_pend_h_1 rows 556 noise sd [0.00588618 0.02058438]
+ window 556 count 1 median mu0 100.64
+ window 150 count 3 median mu0 11.22
+ window 75 count 7 median mu0 2.61
+ window 40 count 13 median mu0 0.87
+ window 25 count 22 median mu0 0.25

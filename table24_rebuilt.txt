@@ -1,0 +1,4 @@
+All                          n=1000 median prod 0.96  mu0 7.54  A2 5.2
+|prod-1|<0.3                 n= 905 median prod 0.96  mu0 2.32  A2 5.2
+parallax > 4 mas             n=  91 median prod 0.99  mu0 0.34  A2 4.1
+robust scatter (1.4826 MAD) 0.093, sd 0.240

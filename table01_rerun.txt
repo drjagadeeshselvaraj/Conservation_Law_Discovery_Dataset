@@ -1,0 +1,14 @@
+s= 0.5 [10.73, 15.57, 18.18, 20.69, 23.38, 24.63] kappa->0: 9.0
+s= 1 [4.63, 6.31, 7.18, 7.96, 8.72, 8.98] kappa->0: 4.0
+s= 2 [2.52, 3.19, 3.51, 3.78, 3.98, 3.98] kappa->0: 2.25
+s= 4 [1.69, 2.0, 2.13, 2.22, 2.24, 2.18] kappa->0: 1.56
+kappa 0.1 n*/p 7.96
+ r=5.57 gap=0.004 (lower edge-top, upper-bottom: 0.817 0.821)
+ r=7.17 gap=0.007 (lower edge-top, upper-bottom: 0.901 0.908)
+ r=8.76 gap=0.022 (lower edge-top, upper-bottom: 0.951 0.973)
+ r=11.15 gap=0.075 (lower edge-top, upper-bottom: 0.993 1.068)
+kappa 0.3 n*/p 8.98
+ r=6.29 gap=0.003 (lower edge-top, upper-bottom: 1.085 1.088)
+ r=8.09 gap=0.005 (lower edge-top, upper-bottom: 1.133 1.138)
+ r=9.88 gap=0.017 (lower edge-top, upper-bottom: 1.161 1.178)
+ r=12.58 gap=0.070 (lower edge-top, upper-bottom: 1.171 1.241)
