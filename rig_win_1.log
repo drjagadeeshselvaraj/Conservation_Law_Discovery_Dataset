@@ -1,0 +1,5 @@
+rig run 1 win 61 mu0_block 3.95
+rig run 1 win 101 mu0_block 3.39
+rig run 1 win 201 mu0_block 3.18
+rig run 1 win 301 mu0_block 4.98
+rig run 1 win 601 mu0_block 14.98

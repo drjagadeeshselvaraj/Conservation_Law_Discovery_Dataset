@@ -1,0 +1,2 @@
+friction 0.002 {'mu0_block': 16.573426552503665, 'mu0_trueN': 9.330240931312582, 'mu0_exact_features': 0.3202656911335379, 'bias_var_over_noise': 23.891076427539396, 'trace_ratio': 0.6401392970700336}
+friction 0.002 {'mu0_block': 19.657601542397238, 'mu0_trueN': 11.946474468924285, 'mu0_exact_features': 0.24402729773775889, 'bias_var_over_noise': 28.598024462947823, 'trace_ratio': 0.8208281598060175}

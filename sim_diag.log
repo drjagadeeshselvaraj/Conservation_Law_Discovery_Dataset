@@ -1,0 +1,6 @@
+rig run1 PR(eff dim) 9.9 median kurt 10.13 row-noise CV 1.07 ang sd [0.22 0.3  0.55] vel sd [1.3 1.6 3.3]
+rig run2 PR(eff dim) 7.3 median kurt 10.39 row-noise CV 1.30 ang sd [0.17 0.21 0.41] vel sd [1.6 1.8 2.9]
+rig run3 PR(eff dim) 10.0 median kurt 10.33 row-noise CV 1.12 ang sd [0.16 0.21 0.4 ] vel sd [0.9 1.1 2.6]
+sim run1 PR(eff dim) 8.4 median kurt 4.03 row-noise CV 0.68 ang sd [0.59 0.84 1.09] vel sd [1.4 2.  3. ]
+sim run2 PR(eff dim) 7.4 median kurt 6.06 row-noise CV 0.78 ang sd [0.47 0.74 5.5 ] vel sd [2.  3.1 4.7]
+sim run3 PR(eff dim) 8.1 median kurt 7.01 row-noise CV 0.86 ang sd [0.59 0.96 8.54] vel sd [2.2 3.4 5.6]
