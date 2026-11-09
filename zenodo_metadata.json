@@ -1,0 +1,13 @@
+{
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "title": "The Sample Threshold for Discovering Conservation Laws: A Spiked-Covariance Analysis, a Matching Lower Bound, and Its Limits on Real Pendulum Data",
+  "creators": [{"name": "Selvaraj, Jagadeesh", "affiliation": "NextGen Technologies Private Limited, Chennai, India"}],
+  "description": "<p>In a Gaussian model with library size p, k conserved quantities and signal-to-noise ratios lambda_j on the other feature directions, the bottom-k sample eigenspace aligns with the true invariants if and only if A_2 = sum_j (1+1/lambda_j)^2 &lt; n, a spiked-covariance transition with the spike below the bulk. The record contains the research monograph (full proofs, all tables), the journal-length article, and a replication folder (code, saved outputs, checksums). On real double- and triple-pendulum data the transition comes later than the formula predicts, and the paper measures and explains the gap. The threshold test rests on one apparatus.</p>",
+  "keywords": ["conservation laws", "symmetry discovery", "spiked covariance", "phase transition", "sample complexity", "errors-in-variables", "Hamiltonian systems"],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "version": "33",
+  "notes": "Monograph v33 (draft edition, November 2026); article dated 8 November 2026. The article is also submitted to a journal."
+}
