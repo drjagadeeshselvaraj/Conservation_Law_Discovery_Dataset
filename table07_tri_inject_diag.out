@@ -1,0 +1,7 @@
+A1 26 A2 32 mu0 1.01  smallest lam [0.67 1.28 5.51 5.77 6.43]
+real rows, spacing x1 (pool 2997): [0.04, 0.15, 0.25, 0.66, 0.9]
+real rows, spacing x4 (pool 750): [0.06, 0.12, 0.37, 0.63, 0.91]
+real rows, spacing x16 (pool 188): [0.06, 0.14, 0.46, 0.77]
+Gaussian surrogate N(0,S): [0.43, 0.81, 0.91, 0.97, 0.98]
+excess kurtosis of generalized-eigen coordinates: median 8.0 max 64.5
+marginal-bootstrap surrogate (keeps tails, removes dependence): [0.4, 0.61, 0.79, 0.91, 0.97]
